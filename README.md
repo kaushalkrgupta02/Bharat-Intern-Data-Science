@@ -14,4 +14,4 @@ You can explore the code, data, and results of both projects. They are valuable 
 
 ---
 
-*Note: The 'tesla_stock_data.csv' file in the TASK 1 folder contains the historical stock data for Amazon and is required to successfully run the stock price prediction project.*
+*Note: The 'tesla_stock_data.csv' file in the TASK 1 folder contains the historical stock data for Tesla and is required to successfully run the stock price prediction project.*
